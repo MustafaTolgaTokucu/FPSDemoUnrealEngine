@@ -19,7 +19,7 @@ For the simple hud, Unreal Engine's widget system is used
 # Most Challenging Parts
 
 ## Animation Precision
-- Melee weapon hit presicion
+- Melee weapon hit Precision
 - Shotgun reloding and shooting precision (interruption of the reloading with firing)
 
 ## AI
