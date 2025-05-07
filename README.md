@@ -1,6 +1,9 @@
 # YouTube Demonstration
 https://youtu.be/E3F-iaHaCd0
 
+#Some of the Art-Work
+[MDLs.pdf](https://github.com/user-attachments/files/20083374/MDLs.pdf)
+
 # The Project
 This project is created for learning the fundamentals of Unreal Engine with C++ and game desing. I wanted to experience lots of processes about game making as much as I can from model animation to enemy AI. Guns, enemies and props are all modeled and animated by myself with using Autodesk MAYA3D and Adobe Substance Painter (Combine and Zombie are modeled by myself but for rigging and several animations, Mixamo is used). Since the project is all about learning, almost all materials are inspired from Valve's Half-Life game. 
 
@@ -29,5 +32,6 @@ For the simple hud, Unreal Engine's widget system is used
 ## Modeling 
 - Smooth weight painting while rigging
 - Character movement animation
+
 
 
