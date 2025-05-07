@@ -16,7 +16,7 @@ For the enemy Combine, AI is done with the engine's built-in behaviour tree & bl
 For remaining enemies, AI is implemented in C++ with using state machines.
 For the simple hud, Unreal Engine's widget system is used
 
-# Most Challenging Parts
+# The Most Challenging Parts
 
 ## Animation Precision
 - Melee weapon hit Precision
